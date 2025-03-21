@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(img-pack/anime-nisekoi-chitoge-kirisaki-wallpaper-preview.jpg);
+    background-image: url(chitoge.jpg);
 }
 
 h1{
@@ -21,7 +21,7 @@ h1{
     max-width: 300px;
     width: 100%;
     border-radius: 12px;
-    background: url(img-pack/anime-nisekoi-chitoge-kirisaki-wallpaper-preview\ \(1\).jpg);
+    background: url(chitoge1.jpg);
     animation: 1s lip infinite ;
     padding: 10px 20px 20px;
     box-shadow: 0 5px 10px rgba(0,0,0,0.05) ;
